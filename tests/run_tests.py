@@ -18,3 +18,5 @@ suite.add_test(loader.make_suite(TestLoaderTest))
 
 runner = TestRunner()
 runner.run(suite)
+
+"Já tinha feito a tarefa do commit 6 sem querer"
